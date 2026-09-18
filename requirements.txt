@@ -1,0 +1,36 @@
+# Flask web framework
+flask==2.3.3
+
+# Twilio for WhatsApp integration
+twilio==8.5.0
+
+# Google API clients for Gmail
+google-api-python-client==2.100.0
+google-auth==2.23.3
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+
+# Environment variables management
+python-dotenv==1.0.0
+
+# Hugging Face transformers for local AI models
+transformers==4.35.0
+torch==2.1.0
+sentencepiece==0.1.99
+
+# Additional dependencies for transformers
+tokenizers==0.14.1
+accelerate==0.24.1
+
+# Logging and utilities
+requests==2.31.0
+urllib3==2.0.7
+
+# Email processing
+email-validator==2.1.0
+
+# JSON handling
+jsonschema==4.19.2
+
+# Text processing
+regex==2023.10.3
